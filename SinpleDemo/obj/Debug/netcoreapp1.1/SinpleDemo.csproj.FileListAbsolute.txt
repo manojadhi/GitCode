@@ -1,0 +1,9 @@
+c:\users\manojadhikari\documents\visual studio 2017\Projects\SinpleDemo\SinpleDemo\bin\Debug\netcoreapp1.1\SinpleDemo.deps.json
+c:\users\manojadhikari\documents\visual studio 2017\Projects\SinpleDemo\SinpleDemo\bin\Debug\netcoreapp1.1\SinpleDemo.runtimeconfig.json
+c:\users\manojadhikari\documents\visual studio 2017\Projects\SinpleDemo\SinpleDemo\bin\Debug\netcoreapp1.1\SinpleDemo.runtimeconfig.dev.json
+c:\users\manojadhikari\documents\visual studio 2017\Projects\SinpleDemo\SinpleDemo\bin\Debug\netcoreapp1.1\SinpleDemo.dll
+c:\users\manojadhikari\documents\visual studio 2017\Projects\SinpleDemo\SinpleDemo\bin\Debug\netcoreapp1.1\SinpleDemo.pdb
+c:\users\manojadhikari\documents\visual studio 2017\Projects\SinpleDemo\SinpleDemo\obj\Debug\netcoreapp1.1\SinpleDemo.csprojResolveAssemblyReference.cache
+c:\users\manojadhikari\documents\visual studio 2017\Projects\SinpleDemo\SinpleDemo\obj\Debug\netcoreapp1.1\SinpleDemo.AssemblyInfo.cs
+c:\users\manojadhikari\documents\visual studio 2017\Projects\SinpleDemo\SinpleDemo\obj\Debug\netcoreapp1.1\SinpleDemo.dll
+c:\users\manojadhikari\documents\visual studio 2017\Projects\SinpleDemo\SinpleDemo\obj\Debug\netcoreapp1.1\SinpleDemo.pdb

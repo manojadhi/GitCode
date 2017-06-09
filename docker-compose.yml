@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+  simpledemo:
+    image: simpledemo
+    build:
+      context: ./SinpleDemo
+      dockerfile: Dockerfile
